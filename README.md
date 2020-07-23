@@ -1,8 +1,10 @@
 ![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
-#TODO:
-Use [LogicalKeyboardKey Class](https://api.flutter.dev/flutter/services/LogicalKeyboardKey-class.html) to link number key to the music note. Then, play a sound with it.
 
 # Xylophone 🎹
+
+##TODO:
+
+Use [LogicalKeyboardKey Class](https://api.flutter.dev/flutter/services/LogicalKeyboardKey-class.html) to link number key to the music note. Then, play a sound with it.
 
 ## Our Goal
 
